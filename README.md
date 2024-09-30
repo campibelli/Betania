@@ -11,3 +11,7 @@ O website final pode ser acessado em [Projeto Betânia](https://betania.associac
 Hosteado por Wordpress Utilizando Hostinger.
 Agradecimento especial ao Docente responsável pelo projeto, Prof. Crispim Luiz Martins da Silva.
 30 de Setembro de 2024.
+
+## Design
+### Wireframe do Projeto, desenvolvido no Figma
+![Wireframe](https://github.com/user-attachments/assets/9158b2f2-0780-4a51-a60c-d0828546c883)
